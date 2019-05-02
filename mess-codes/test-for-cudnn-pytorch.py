@@ -15,4 +15,3 @@ cudnn.is_available()
  
 cudnn.is_acceptable(a.cuda()) 
 # 若正常则返回 True
----------------------
